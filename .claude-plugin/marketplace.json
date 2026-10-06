@@ -1,0 +1,14 @@
+{
+  "name": "claude-done-notify",
+  "description": "macOS notifications when Claude Code finishes a turn",
+  "owner": {
+    "name": "Chester Leung",
+    "url": "https://github.com/chester-leung"
+  },
+  "plugins": [
+    {
+      "name": "done-notify",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "done-notify",
+  "version": "0.2.0",
+  "description": "macOS notification when Claude finishes a turn: the session's name and a one-line summary",
+  "author": { "name": "Chester Leung", "url": "https://github.com/chester-leung" },
+  "homepage": "https://github.com/chester-leung/claude-done-notify",
+  "license": "MIT"
+}
